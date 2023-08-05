@@ -17,3 +17,8 @@ a:visited{
 a:hover{
     color: hotpink;
 }
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;   
+}
