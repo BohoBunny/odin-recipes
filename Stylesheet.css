@@ -3,11 +3,10 @@
     font-weight: bold;
     text-align: center;
     font-size: xx-large;
-
 }
 
 a{
-    outline: none;
+    text-decoration: none;
 }
 
 a:visited{
