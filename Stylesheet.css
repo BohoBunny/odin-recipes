@@ -41,3 +41,14 @@ img{
     margin-left: auto;
     margin-right: auto;
 }
+
+div { 
+    text-align: center;
+    padding: 5px;
+    background-color: rgb(145, 127, 179);
+    margin: 20px 250px;
+    box-sizing: content-box;
+    max-width: 60%;
+    border-radius: 49%;
+    box-shadow: 2px 8px 2px 2px black;
+}
