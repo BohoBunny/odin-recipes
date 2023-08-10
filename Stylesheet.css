@@ -1,3 +1,8 @@
+body {
+    background-color: rgb(42, 47, 79);
+    color: rgb(253, 226, 243);
+}
+
 .Heading01{
     font-family: Verdana, Geneva, Tahoma, sans-serif ;
     font-weight: bold;
