@@ -57,3 +57,8 @@ ul, ol{
     display: inline-block;
     padding: 0px;
 }
+
+li{
+    padding: 2px;
+}
+
