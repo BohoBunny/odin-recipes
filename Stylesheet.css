@@ -53,7 +53,7 @@ div {
     box-shadow: 2px 8px 2px 2px black;
 }
 
-ul{
+ul, ol{
     display: inline-block;
     padding: 0px;
 }
